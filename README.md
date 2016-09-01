@@ -1,4 +1,4 @@
-# DN.SE
+# DAGENS NYHETER (HTTP://WWW.DN.SE)
 DN.SE gratis utan paywall
 
 1. Lägg till följande som bokmärke
