@@ -6,6 +6,7 @@ DN.SE gratis utan paywall
 ```javascript
 javascript:(function(){
 if(window.location.origin.indexOf('dn.se') != -1){
+	$("#pwOverlay").remove();
 	$(".js-paywall").hide();
 	$(".article__premium-content").show();  
 	$(".article__body.article__body--mask").removeClass("article__body article__body--mask");
