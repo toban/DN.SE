@@ -10,6 +10,7 @@ if(window.location.origin.indexOf('dn.se') != -1){
 	$(".js-paywall").hide();
 	$(".article__premium-content").show();  
 	$(".article__body.article__body--mask").removeClass("article__body article__body--mask");
+	sessionStorage.setItem('adBlockTracked', 'false');
 }else{
 	window.location = "https://www.dn.se";
 }
