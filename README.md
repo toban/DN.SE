@@ -1,7 +1,7 @@
 # DAGENS NYHETER (HTTP://WWW.DN.SE)
 DN.SE gratis utan paywall
 
-1. Lägg till följande som bokmärke
+1. Encoda(https://mrcoles.com/bookmarklet/) och lägg till följande javascript som bokmärke
 
 ```javascript
 javascript:(function(){
