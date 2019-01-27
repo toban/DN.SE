@@ -12,6 +12,7 @@ if(window.location.origin.indexOf('dn.se') != -1){
 	$(".article__body.article__body--mask").removeClass("article__body article__body--mask");
 	sessionStorage.setItem('adBlockTracked', 'false');
 	$(".modal.takeover-modal").remove();
+	$(".modal.takeover-modal.test-a").remove();
 }else{
 	window.location = "https://www.dn.se";
 }
