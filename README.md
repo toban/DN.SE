@@ -1,7 +1,8 @@
 # DAGENS NYHETER (HTTP://WWW.DN.SE)
 DN.SE gratis utan paywall
 
-1. Encoda(https://mrcoles.com/bookmarklet/) och lägg till följande javascript som bokmärke
+1. Installera ad-block extension som upptäcks (Adblock Plus t.ex.)
+2. Encoda(https://mrcoles.com/bookmarklet/) och lägg till följande javascript som bokmärke
 
 ```javascript
 javascript:(function(){
